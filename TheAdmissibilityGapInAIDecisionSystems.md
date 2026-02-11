@@ -56,6 +56,11 @@ A complete reference architecture, governance specification, conformance regime,
 This work is intended for legal, risk, audit, and governance leadership; platform owners operating AI-driven decision systems; and organizations deploying agentic workflows where reliance and actuation carry material risk.
 It is not a consumer product, advisory service, or AI model.
 
+BB-AGPA-2026
+Issued: February 2026
+Prepared as an independent analysis. Sources available upon request.
+
+
 ### ACCESS
 Detailed specifications and the reference execution are available for controlled diligence and governance evaluation.
 
