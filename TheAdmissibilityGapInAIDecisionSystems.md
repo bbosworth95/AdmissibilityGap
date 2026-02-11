@@ -35,7 +35,7 @@ This gap increases exposure to:
 -	Board-level accountability without decision-time control
 -	Inconsistent delegation in agentic systems
 -	Post-incident defensibility failures (“why was this relied upon at all?”)
--	
+	
 ### THE SOLUTION CATEGORY
 This work defines a **governance control primitive** that introduces an explicit phase boundary between:
 AI-derived intelligence → human/institutional authority → execution.
