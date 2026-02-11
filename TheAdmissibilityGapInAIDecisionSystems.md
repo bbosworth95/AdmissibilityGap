@@ -59,6 +59,8 @@ It is not a consumer product, advisory service, or AI model.
 ### ACCESS
 Detailed specifications and the reference execution are available for controlled diligence and governance evaluation.
 
+---
+
 BB-AGPA-2026
 Issued: February 2026
 Prepared as an independent analysis. Sources available upon request.
