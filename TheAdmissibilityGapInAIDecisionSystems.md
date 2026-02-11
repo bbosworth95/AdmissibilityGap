@@ -1,7 +1,7 @@
 ## PUBLIC ABSTRACT
 ## THE ADMISSIBILITY GAP IN AI DECISION SYSTEMS
 
-AI is now embedded across **enterprise decision surfaces:** executive briefings, board materials, finance and risk workflows, productivity platforms, and increasingly, agent-driven systems that recommend or initiate actions. Even as model quality, grounding, and transparency improve, organizations still lack a deterministic mechanism to decide **when AI-derived information is legitimate to rely on** in decision-grade contexts—and when downstream workflows must be prevented from proceeding.
+AI is now embedded across **enterprise decision surfaces:** executive briefings, board materials, finance and risk workflows, productivity platforms, and increasingly, agent-driven systems that recommend or initiate actions. Even as model quality, grounding, and transparency improve, organizations still lack a deterministic mechanism to decide **when AI-derived information is legitimate to rely on** in decision-grade contexts, and when downstream workflows must be prevented from proceeding.
 
 This is not primarily a model capability problem.
 It is an internal control and liability boundary problem.
