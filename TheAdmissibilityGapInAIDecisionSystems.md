@@ -14,7 +14,7 @@ Modern AI governance has advanced across:
 -	Data provenance and monitoring
 -	Human review checkpoints
 -	Post-hoc audit and logging
--	
+  
 These are necessary, but they do not address a specific failure mode that emerges at decision altitude:
 
 **Intelligence silently becoming authority.**
