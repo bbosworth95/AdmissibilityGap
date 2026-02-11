@@ -44,11 +44,11 @@ It consists of two separable layers:
 
 1.	**Knowledge Accessibility Layer (KAL)**
    
-A decision-time admissibility system that determines whether AI-derived information is legitimate to rely on for a declared context, scope, and authority level. KAL is refusal-first, produces finite outcomes, and issues audit-grade governance artifacts. It does not advise, recommend, explain, or authorize action.
+- A decision-time admissibility system that determines whether AI-derived information is legitimate to rely on for a declared context, scope, and authority level. KAL is refusal-first, produces finite outcomes, and issues audit-grade governance artifacts. It does not advise, recommend, explain, or authorize action.
 
 2.	**Liminal Control Plane (LCP)**
    
-An execution-time enforcement layer that ensures no workflow, agent, or automation proceeds without an explicit legitimacy signal from an upstream authority. LCP is authority-agnostic and enforces allow/block semantics deterministically. It does not interpret, optimize, or decide.
+- An execution-time enforcement layer that ensures no workflow, agent, or automation proceeds without an explicit legitimacy signal from an upstream authority. LCP is authority-agnostic and enforces allow/block semantics deterministically. It does not interpret, optimize, or decide.
 Together, these layers prevent silent escalation from “suggestion” to “action” without formal authorization.
 
 ### STATUS
